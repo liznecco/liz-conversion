@@ -2,3 +2,5 @@ hello
 how are you?
 i am well, how are you?
 very well, thank you.
+that's great. goodbye.
+goodbye.
